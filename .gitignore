@@ -45,3 +45,22 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#configurations
+/.vs/
+/IRSOutputClient/
+/TestResults/
+/UnitTestIRSOutput/
+/IRSOutput.sln/
+/IRSOutput/bin/
+/IRSOutput/obj/
+/IRSOutput/Properties/
+/IRSOutput/App.config
+/IRSOutput/IRSOutput.csproj
+IRSOutput.sln
+
+
+
+
+
+
